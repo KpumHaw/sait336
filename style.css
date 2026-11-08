@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    background-color: #0f0f1b;
+    color: white;
+}
+
+h1{
+   text-align:center ;
+   color: #FFFFFF;
+   text-shadow: 4px 3px 0 #7A7A7A;
+}
+.lego{
+    background-color:#f59942 ;
+}
+.transform{
+    background-color:#007FFF ;
+}
+.mafia{
+    background-color:#900020 ;
+}
+.ds{
+    background-color:#FF55A3 ;
+}
+.pr{
+    background: linear-gradient(135deg, #1b4965 0%, #2e80d1 50%, #62b6cb 100%);
+}
+.kviz{
+    background: linear-gradient(135deg, #17132f, #39246b, #111827); 
+    text-align: center;
+    border: 15px;
+    border-radius:15px;
+}
